@@ -18,13 +18,13 @@ from telegram.ext import (
 )
 
 # ─── تنظیمات ───────────────────────────────────────────────
-BOT_TOKEN = "YOUR_TELEGRAM_BOT_TOKEN"          # توکن ربات از @BotFather
+BOT_TOKEN = "8814779677:AAHQo4zXMu0pGtaF6YyF3zjXOXN69KIEUu0"          # توکن ربات از @BotFather
 PANEL_URL = "http://c.chilitay.shop/0e60c8734a"  # آدرس پنل شما
 PANEL_USER = "admin"                            # یوزر پنل
-PANEL_PASS = "YOUR_PANEL_PASSWORD"             # رمز پنل
+PANEL_PASS = "admin"             # رمز پنل
 
 # اگه میخوای فقط کانال‌ات بتونه استفاده کنه (اختیاری - خالی بذار برای عمومی)
-ALLOWED_CHANNEL = ""   # مثلاً: "@mychannel"  یا خالی
+ALLOWED_CHANNEL = "@ChiliTech"   # مثلاً: "@mychannel"  یا خالی
 
 # لاگ
 logging.basicConfig(
